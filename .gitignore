@@ -1,0 +1,17 @@
+# Ignore Cargo generated files and directories
+**/target/
+**/Cargo.lock
+**/.rustc_info.json
+
+# Ignore hidden .DS_Store files created by macOS
+**/.DS_Store
+
+# Ignore IntelliJ IDEA files
+**/*.iml
+**/.idea/
+
+# Ignore Visual Studio Code directory
+**/.vscode/
+
+# Ignore compiled binary
+**/*.rs.bk
